@@ -6,6 +6,8 @@ title: df
 {{ page.title }}
 ===============
 
+```c
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -208,3 +210,5 @@ void submitcodes(FileList *files,char *hostname,char *srcpath)
 
        close(sd);
 }
+
+```
