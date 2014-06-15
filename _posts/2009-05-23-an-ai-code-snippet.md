@@ -7,7 +7,6 @@ title: 解决“警察，贼，爸爸，妈妈，儿，儿，女，女”问题�
 ===============
 
 ```c
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
