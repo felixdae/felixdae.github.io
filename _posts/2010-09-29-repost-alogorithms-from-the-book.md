@@ -6,7 +6,7 @@ title: 来自圣经的算法(出自matrix67.com)
 {{ page.title }}
 ===============
 
-《来自圣经的证明》收集了数十个简洁而优雅的数学证明，迅速赢得了大批数学爱好者的追捧。如果还有一本《来自圣经的算法》，哪些算法会列入其中呢？最近，有人在 [StackExchange ] (http://cstheory.stackexchange.com/questions/189/algorithms-from-the-book) 上发起了提问，向网友们征集那些来自圣经的算法。众人在一大堆入围算法中进行投票，最终得出了呼声最高的五个算法：
+《来自圣经的证明》收集了数十个简洁而优雅的数学证明，迅速赢得了大批数学爱好者的追捧。如果还有一本《来自圣经的算法》，哪些算法会列入其中呢？最近，有人在[StackExchange](http://cstheory.stackexchange.com/questions/189/algorithms-from-the-book)上发起了提问，向网友们征集那些来自圣经的算法。众人在一大堆入围算法中进行投票，最终得出了呼声最高的五个算法：
 
 ## 第五名： BFPRT 算法 
 
