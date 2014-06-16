@@ -1,10 +1,12 @@
 ---
 layout: post
-title: How many errors are left to find?（转自http://www.johndcook.com/blog/2010/07/13/lincoln-index/）
+title: How many errors are left to find?
 ---
 
 {{ page.title }}
 ===============
+
+（转自http://www.johndcook.com/blog/2010/07/13/lincoln-index/）
 
 How many errors are left to find?
 by John on July 13, 2010
