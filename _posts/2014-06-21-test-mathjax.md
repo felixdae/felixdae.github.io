@@ -6,8 +6,8 @@ title: test
 {{ page.title }}
 ===============
 
-{% math %} e^x = \sum\_{n=0}^\infty \frac{x^n}{n!} = \lim\_{n\rightarrow\infty} (1+x/n)^n {% endmath %}
+$$ 
+e^x = \sum\_{n=0}^\infty \frac{x^n}{n!} = \lim\_{n\rightarrow\infty} (1+x/n)^n 
+$$
 
-
-
-fadsfaf {% m %} \alpha + \beta {% em %} jjkljkjkl
+adsfaf $$\alpha + \beta$$ jjkljkjkl
