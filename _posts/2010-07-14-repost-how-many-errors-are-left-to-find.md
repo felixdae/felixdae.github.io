@@ -31,9 +31,8 @@ Simulation code
 
 Here’s some Python code for simulating estimates using the Lincoln Index.
 
-view source
-
-print?
+<pre>
+<code>
 from random import random
  
 def find_error(p):
@@ -60,6 +59,8 @@ def simulate(true_error_count, p1, p2, reps=10000):
         estimate = caught1*caught2 / float(caught_both)
         estimation_error_sum += abs(estimate - true_error_count)
     return estimation_error_sum / float(reps)
+</code>
+</pre>
 I used this to simulate the case of two testers, one with a 30% chance of finding a bug and the other with a 40% chance, and a total of 100 bugs. I simulated the Lincoln Index 1,000 times, keeping track of the absolute error in the estimates. The code to do this was simulate(100, 0.30, 0.40, 1000). On average, the Lincoln index over- or under-estimated the number of bugs by about 16. This is a good estimate considering each tester greatly under-estimated the number of bugs.
 
 If you didn’t think about using something like the Lincoln Index, in the previous example one tester would find around 30 bugs and the other around 40. The two lists might have 10 bugs in common, so you’d estimate the total number at 60, far short of 100. But the Lincoln index would often find estimates between 84 and 116.
