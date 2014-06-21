@@ -6,7 +6,8 @@ title: 组合生成代码
 {{ page.title }}
 ===============
 
-```php
+<pre>
+<code>
 public function uni_zuhe($n,$m)//回溯法生成所有组合
 {
     if($n<=0)
@@ -54,5 +55,5 @@ public function uni_zuhe($n,$m)//回溯法生成所有组合
     //print("</br>count:".count($res_arr));
     //print_r($res_arr);
 }
-```
-
+</code>
+</pre>

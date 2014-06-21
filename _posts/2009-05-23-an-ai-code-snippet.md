@@ -6,7 +6,8 @@ title: 解决“警察，贼，爸爸，妈妈，儿，儿，女，女”问题�
 {{ page.title }}
 ===============
 
-```c
+<pre>
+<code>
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -140,5 +141,5 @@ main(int argc, char **argv)
     traverse(255, 1, 0);
     return 0;
 }
-
-```
+</code>
+</pre>
