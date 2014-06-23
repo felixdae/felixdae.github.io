@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [自译]javascript最佳实践
+title: 【自译】javascript最佳实践
 ---
 
 {{ page.title }}
