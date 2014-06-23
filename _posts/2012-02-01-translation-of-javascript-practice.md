@@ -6,7 +6,7 @@ title: 【自译】javascript最佳实践
 {{ page.title }}
 ===============
 
-[Javascript最佳实践[(http://www.javascripttoolbox.com/bestpractices/)
+[Javascript最佳实践](http://www.javascripttoolbox.com/bestpractices/)
 
 
 
