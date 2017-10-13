@@ -4,3 +4,4 @@ encoding: utf-8
 img_url: http://felixdae.github.io/images
 gems:
   - jekyll-feed
+theme: jekyll-theme-modernist
