@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 薄一波吊邓小平联
 ---
 

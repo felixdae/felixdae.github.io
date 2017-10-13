@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 【自译】bash命令精粹（Bash one-liners）
 ---
 

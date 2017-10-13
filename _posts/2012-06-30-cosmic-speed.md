@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 各种宇宙速度
 ---
 

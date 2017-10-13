@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 曾左互讽对联
 ---
 

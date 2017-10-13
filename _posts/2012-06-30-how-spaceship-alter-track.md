@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 航天器如何变轨
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 【自译】awk命令荟萃（awk one-liners）
 ---
 

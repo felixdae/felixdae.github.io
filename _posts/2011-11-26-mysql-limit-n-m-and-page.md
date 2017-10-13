@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 数据库"limit n,m"模式强于"page, pagesize"模式
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 个人博客迁移记
 ---
 

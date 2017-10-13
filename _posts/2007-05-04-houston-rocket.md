@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 火箭啊，火箭
 ---
 

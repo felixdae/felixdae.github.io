@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 如何解九连环
 ---
 

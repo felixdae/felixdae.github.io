@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: mac上的二维码识别
 ---
 

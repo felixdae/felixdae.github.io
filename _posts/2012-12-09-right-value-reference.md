@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 右值，右值引用以及move语意
 ---
 

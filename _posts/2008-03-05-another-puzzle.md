@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 另一个智力题
 ---
 

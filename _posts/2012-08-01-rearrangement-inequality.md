@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 排序不等式及其证明
 ---
 

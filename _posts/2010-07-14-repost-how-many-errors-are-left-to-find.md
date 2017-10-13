@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: How many errors are left to find?
 ---
 

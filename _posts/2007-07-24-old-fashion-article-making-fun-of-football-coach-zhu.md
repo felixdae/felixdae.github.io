@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: BBS上美文
 ---
 

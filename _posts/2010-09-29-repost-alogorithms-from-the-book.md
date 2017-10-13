@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 来自圣经的算法(出自matrix67.com)
 ---
 

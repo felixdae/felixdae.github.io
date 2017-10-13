@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 【自译】javascript最佳实践
 ---
 

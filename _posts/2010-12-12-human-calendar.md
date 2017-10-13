@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: How to Become a Human Calendar（转链接）
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: (转)How one chinese feel?
 ---
 

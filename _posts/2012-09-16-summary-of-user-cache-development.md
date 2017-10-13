@@ -1,5 +1,4 @@
 ---
-layout: post
 title: user cache开发小结
 ---
 

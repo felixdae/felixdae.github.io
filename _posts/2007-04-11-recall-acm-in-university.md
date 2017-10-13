@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 三个月再回首
 ---
 

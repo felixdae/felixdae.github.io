@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 大小王在同一堆的概率
 ---
 

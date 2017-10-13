@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: <<百年孤独>>备忘
 ---
 

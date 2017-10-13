@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 招聘培训摘记
 ---
 
