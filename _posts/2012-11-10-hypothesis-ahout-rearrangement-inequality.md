@@ -1,5 +1,4 @@
 ---
-mathjax: true
 title: 关于排序不等式的猜想
 ---
 
